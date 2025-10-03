@@ -11,7 +11,7 @@
     $ git clone https://github.com/wildanfh/hbd
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd hbd
 
     # Open it with your text editor
     $ code .
